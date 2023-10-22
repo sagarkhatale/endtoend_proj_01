@@ -4,6 +4,8 @@
 ```
 01/ create folder
 ```
+
+```
 02/ initialize the git
 git init
 git add file_name.txt   OR  git add --all
