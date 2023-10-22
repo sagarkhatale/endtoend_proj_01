@@ -13,7 +13,7 @@ echo [$(date)]: "installing the dev requirements"
 if ! test -f ./requirements.txt;
 then
     touch ./requirements.txt
-    pip install -r requirements.txt
 fi
+pip install -r requirements.txt
 
 echo [$(date)]: "END" 
