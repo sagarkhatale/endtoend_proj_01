@@ -1,6 +1,6 @@
-# This is first end to end project
+## This is first end to end project
 
-# steps to follow 
+## steps to follow 
 01/ create folder
 02/ initialize the git
 git init
