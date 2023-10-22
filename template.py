@@ -41,6 +41,6 @@ for filepath in list_of_files:
         with open(filepath,"w") as f:
             pass
     else:
-        print("file already exists")
+        print(f"{filename} file already exists")
 
 # here will use the file handling
